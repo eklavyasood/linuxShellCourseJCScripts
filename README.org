@@ -1,0 +1,3 @@
+#+TITLE: shell course scripts
+
+bash scripts made while following a udemy Bash Scripting course 
